@@ -1,10 +1,9 @@
 backup
 x86_64-win64
 *.res
-*.dll
 *.log
 *.bat
 *.pas_
 *.exe
 old
-*.obj
+icu_udr.dll
