@@ -1,4 +1,4 @@
-function normalize (
+create function normalize (
       in_str varchar(8191),
       translit_diacritics boolean = true,
       clear_parentheses boolean = false,
